@@ -27,7 +27,7 @@ Métodos equals() y hashCode() definidos con cuidado para evitar ciclos o recurs
 
 Métodos toString() simplificados para facilitar la depuración.
 
-Funcionalidades CRUD de Empresa
+Funcionalidades CRUD de Empresa:
 
 Listar todas las empresas registradas
 
@@ -39,7 +39,7 @@ Actualizar CUIT de empresa por ID
 
 Eliminar empresa por ID
 
-Requisitos técnicos
+Requisitos técnicos:
 
 Java 8 o superior
 
